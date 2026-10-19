@@ -1,0 +1,4 @@
+# Tested baseline; distro python3-mutagen 1.44.0 is sufficient.
+# System dependency (not installed by pip): MKVToolNix (mkvextract, mkvpropedit).
+# The shared Snap runtime also requires mkvinfo for Super Playlist.
+mutagen==1.44.0

@@ -1,0 +1,11 @@
+# Genres: one UTF-8 metadata item per line.
+# Do not use the space bar or tabs inside an item; use underscores instead.
+# Blank lines and lines starting with # are ignored.
+# After editing installed presets, click Refresh presets in the extension.
+#
+# Example entries:
+#
+# Heavy_rock
+# Acoustic
+# Live
+# Documentary

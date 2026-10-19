@@ -1,0 +1,21 @@
+# Append Genre values to Album: true or false.
+# Change here and reopen the extension, or use the checkbox and Save.
+# Blank lines and lines starting with # are ignored.
+#
+# This settings is intended for using standard VLC playlist, where
+# you cannot filter by Genre tag. With this tool you can append Genre
+# values in the end of Album field, so you can then filter both with
+# Genre and Album values. If you use Super Playlist add-on, this restriction
+# does not apply. By default this setting is false.
+append_genre_to_album=false
+
+# Show a New input and Add button for each Artist, Album and Genre.
+# One click saves the value to its preset file and adds it to the video field.
+# Video metadata is written only with Save changes. Use underscores for spaces.
+# False (or an absent setting) keeps the existing preset controls unchanged.
+# Change this setting here and reopen the extension.
+#
+# You might want to disable this setting if you are using only standard
+# values in Artist,  Album and Genre fields. In this case, you can maintain
+# selectable values in config files included in this directory.
+quick_tag_editing=true
